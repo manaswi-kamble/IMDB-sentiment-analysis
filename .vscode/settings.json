@@ -1,0 +1,5 @@
+{
+    "C_Cpp.copilotHover": "enabled",
+    "editor.defaultFormatter": "GitHub.copilot",
+    "python.analysis.aiHoverSummaries": true
+}
